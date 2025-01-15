@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">my_custom_adapter_listview</string>
+
+    <string-array name="country_name">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Australia</item>
+        <item>England</item>
+        <item>Usa</item>
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Australia</item>
+        <item>England</item>
+        <item>Usa</item>
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Australia</item>
+        <item>England</item>
+        <item>Usa</item>
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Australia</item>
+        <item>England</item>
+        <item>Usa</item>
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Australia</item>
+        <item>England</item>
+        <item>Usa</item>
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Australia</item>
+        <item>England</item>
+        <item>Usa</item>
+    </string-array>
+</resources>
