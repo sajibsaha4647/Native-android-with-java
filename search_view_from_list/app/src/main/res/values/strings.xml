@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">search_view_from_list</string>
+    <string-array name="country_names">
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+    </string-array>
+</resources>
